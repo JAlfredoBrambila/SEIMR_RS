@@ -1,0 +1,10 @@
+,B00 =  0.3271875,(tasa de transmisibilidad de un individuo asintom´atico que circula libremente en la poblaci´on)
+,B01 = ?2.98 log(1?0.01)," personas asintom´aticas que se quedan en casa tienen contacto efectivo en promedio con 2,98 personas al d´?a"
+,B10 = ?10 log(1 ? 0.015), personas con s´?ntomas moderados que circulan libremente en la poblaci´on tienen contacto efectivo con 10 personas al d´?a
+,"B11 = ?2,98 log(1 ? 0,015)","Es decir, se estima que un individuo sintom´atico que se queda en casa solo tiene contacto con las personas del hogar"
+,,
+,,
+B00,0.3271875,
+B01,0.01300712,
+B10,0.065637695,
+B11,0.019560033,
